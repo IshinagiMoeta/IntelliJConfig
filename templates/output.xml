@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="sol" value="System.out.println(&quot;$END$&quot;);" description="Prints a formatted string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

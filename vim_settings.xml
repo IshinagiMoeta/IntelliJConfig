@@ -1,16 +1,36 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IntelliJ/Test/src/spring-config.xml" timestamp="1556249472632">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="D:/IntelliJ/Test/src/HelloWorld.java" timestamp="1556249185993">
-        <mark key="[" line="0" column="24" />
+      <file name="/JavaScript File.txt.ft" timestamp="1556251886187">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Groovy Class.txt.ft" timestamp="1556251888638">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IntelliJ/Test/src/HelloWorld.java" timestamp="1556252060504">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1556251882283">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Groovy Interface.txt.ft" timestamp="1556251888182">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IntelliJ/Test/src/Main.java" timestamp="1556249543095">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1556251878919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1556252025220">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -23,6 +43,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
